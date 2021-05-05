@@ -35,7 +35,7 @@ You should have the following items:
 5- Go to your AWS account -> EC2 service -> wordpress_tf -> details -> copy Public IPv4 address.
 
 
-6- Go to you browser and navigate to http://"your_Public_IPv4_address"/ 
+6- Go to you browser and navigate to http://your_Public_IPv4_address/ 
 
 
 
