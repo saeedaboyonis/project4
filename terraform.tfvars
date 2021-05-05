@@ -1,0 +1,5 @@
+region="eu-central-1"
+image_id="ami-05f7491af5eef733a"
+key_name="saeeday"
+access_key = " "
+secret_key = " "
