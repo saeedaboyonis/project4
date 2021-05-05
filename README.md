@@ -29,7 +29,7 @@ You should have the following items:
 3- Use command line to run "terraform apply -auto-approve".
 
 
-4- Wait about 2 min until your AWS services are ready.
+4- Wait about 5 min until your AWS services are ready.
 
 
 5- Go to your AWS account -> EC2 service -> wordpress_tf -> details -> copy Public IPv4 address.
